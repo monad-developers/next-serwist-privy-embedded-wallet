@@ -32,8 +32,8 @@ Before you begin, ensure you have the following installed:
 ### 1. Clone the Repository
 
 ```bash
-git clone <repository-url>
-cd next14-privy-serwist
+git clone https://github.com/monad-developers/next-serwist-privy-embedded-wallet.git
+cd next-serwist-privy-embedded-wallet
 ```
 
 ### 2. Install Dependencies
@@ -187,7 +187,7 @@ To customize your push notification content, edit `app/notification/route.ts` an
 ## 🔧 Project Structure
 
 ```
-next14-privy-serwist/
+next-serwist-privy-embedded-wallet/
 ├── app/
 │   ├── components/          # React components
 │   │   ├── InstallPWA.tsx  # PWA install prompt
